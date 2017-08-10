@@ -10,7 +10,7 @@
 	<body>
 	<?php 
 	session_start();
-	include "profiledetails.php" 
+	include "profile_details.php" 
 	?>
 		<table border="1" style="text-align:center">
 			<tr>
