@@ -59,9 +59,6 @@
 			</tr>
 			
 		</table>
-		<?php
-			//include "add.php";
-		?>
 	</body>
 </center>
 </html>
